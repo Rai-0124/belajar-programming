@@ -1,0 +1,25 @@
+body {
+  /* 1. UBAH BACKGROUND */
+  background-color: #ffe6f2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+
+p {
+  /* 2. UBAH WARNA & UKURAN TULISAN */
+  color: #555;
+  font-size: 20px;
+}
+
+/* 3. BIKIN NAMA JADI MENARIK */
+h1 {
+  color: #ff1493;
+  font-size: 45px;
+  background-color: white;
+  display: inline-block;
+  padding: 15px 25px;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  border: 3px dashed #ff69b4;
+}
